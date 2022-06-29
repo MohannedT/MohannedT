@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
-# Mohanned Tarik
+# Mohanned Tariq
 
 [![Github](https://img.shields.io/github/followers/abdallhsamy?label=Follow&style=social)](https://github.com/abdallhsamy)
-[![Linkedin](https://img.shields.io/badge/-Abdallah%20Samy-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in//)](https://www.linkedin.com/in/)
+[![Linkedin](https://img.shields.io/badge/-##-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in//)](https://www.linkedin.com/in/)
 
 
 
