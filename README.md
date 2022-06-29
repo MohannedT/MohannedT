@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # Mohanned Tariq
 
-[![Github](https://img.shields.io/github/followers/abdallhsamy?label=Follow&style=social)](https://github.com/abdallhsamy)
+[![Github](https://img.shields.io/github/followers/abdallhsamy?label=Follow&style=social)]
 [![Linkedin](https://img.shields.io/badge/-##-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in//)](https://www.linkedin.com/in/)
 
 
