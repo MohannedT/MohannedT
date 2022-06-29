@@ -28,10 +28,10 @@ Here are some ideas to get you started:
 
 
 
-<img align="left" alt="AbdallahSamy's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=abdallhsamy&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" />
+<img align="left" alt="#NAME#'s Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=abdallhsamy&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" />
 
 
-<img align="left" alt="AbdallahSamy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abdallhsamy&show_icons=true&hide_border=true&count_private=true" />
+<img align="left" alt="Name's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abdallhsamy&show_icons=true&hide_border=true&count_private=true" />
 
 
 ## Contact Me
