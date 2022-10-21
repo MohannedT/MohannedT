@@ -71,7 +71,7 @@ or <a href="mailto:Mohanadfci@gmail.com"><b>email</b></a> me.
 <img align="left" alt="#Mohanned#'s Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=mohanad tariq&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" />
 
 
-<img align="left" alt="Name's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mohanned Tariq&show_icons=true&hide_border=true&count_private=true" />
+<img align="left" alt="Name's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abdallhsamy&show_icons=true&hide_border=true&count_private=true" />
 
 ## Contact Me
 [![Whatsapp](https://img.shields.io/badge/-Abdallah%20Samy-green?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/+201113617704)](https://wa.me/+201113617704)
