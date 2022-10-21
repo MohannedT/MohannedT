@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 # Mohanned Tariq
 
 [![Github](https://img.shields.io/github/followers/abdallhsamy?label=Follow&style=social)]
-[![Linkedin](https://img.shields.io/badge/-##-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in//)](https://www.linkedin.com/in/)
+[![Linkedin](https://img.shields.io/badge/-##-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in//)](https://www.linkedin.com/in/mohanad-tariq/ )
 
 
 
@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 
 
 ## Contact Me
-[![Whatsapp](https://img.shields.io/badge/-##?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/201115992468)](https://wa.me/201115992468) [![Call](https://img.shields.io/badge/-Click%20To%20Call-blue?style=flat-square&logo=mobile&logoColor=white&link=tel://+2)](tel://+201113617704)
+[![Whatsapp](https://img.shields.io/badge/-##?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/201115992468)](https://wa.me/+201113617704) [![Call](https://img.shields.io/badge/-Click%20To%20Call-blue?style=flat-square&logo=mobile&logoColor=white&link=tel://+2)](tel://+201113617704)
