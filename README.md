@@ -69,13 +69,13 @@ or <a href="mailto:Mohanadfci@gmail.com"><b>email</b></a> me.
 
 <img align="center" alt="#Mohanned#'s Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=mohanad tariq&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" />
 
+
+</br>
+</br>
+
 ![Mohanned's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=algolia)
 
 </div>
-
-
-
-
 
 ---
 </div>
