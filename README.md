@@ -72,10 +72,9 @@ or <a href="mailto:Mohanadfci@gmail.com"><b>email</b></a> me.
 
 </br>
 </br>
-![Mohanned's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=algolia)
 
 ![Mohanned's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohannedT&theme=algolia)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohannedT)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 ---
