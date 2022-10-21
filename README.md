@@ -62,7 +62,10 @@ or <a href="mailto:Mohanadfci@gmail.com"><b>email</b></a> me.
 <a href="https://" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 
 
-left
+
+</br>
+</br>
+
 
 <img align="center" alt="#Mohanned#'s Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=mohanad tariq&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" />
 
