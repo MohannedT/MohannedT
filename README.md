@@ -73,5 +73,5 @@ or <a href="mailto:Mohanadfci@gmail.com"><b>email</b></a> me.
 ![Mohanned's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=algolia)
 
 ## Contact Me
-[![Whatsapp](https://img.shields.io/badge/-Abdallah%20Samy-green?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/+201113617704)](https://wa.me/+201113617704)
+[![Whatsapp](https://img.shields.io/badge/-Mohanned%20Tariq-green?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/+201113617704)](https://wa.me/+201113617704)
 [![Call](https://img.shields.io/badge/-Click%20To%20Call-blue?style=flat-square&logo=mobile&logoColor=white&link=tel://+201113617704)](tel://+201113617704)
