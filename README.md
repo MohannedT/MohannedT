@@ -89,28 +89,6 @@ or <a href="mailto:absphreak@outlook.com"><b>email</b></a> me.
 <a href="https://dev.to/ABSphreak" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 
 </div>
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-
-    Terms
-    Privacy
-    Security
-    Status
-    Docs
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
-
-ABSphreak/README.md at master · ABSphreak/ABSphreak
-
-##
-[![Github](https://img.shields.io/github/followers/abdallhsamy?label=Follow&style=social)]
-[![Linkedin](https://img.shields.io/badge/-##-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in//)](https://www.linkedin.com/in/mohanad-tariq/ )
-
 
 
 [![Codersrank widget](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=abdallhsamy&layout=horizontal&width=240&badges=3&branding=false&style=--header-bg-color:%23111;--border-radius:10px;--name-font-size:0.8em;--rank-font-size:0.5em;--bg-color:%23222;--badge-bg-color:%23111;--badge-text-color:%23aaa)](https://profile.codersrank.io/user/MohannedT/)
